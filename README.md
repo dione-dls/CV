@@ -65,7 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Generali** (November 2013 to March 2015)   
 *High Net Worth Business Development Executive*  
 **GlaxoSmithKline** (October 2012 to July 2013)
-*Human Resources Officer - Compensation and Benefits Lead*
+*Human Resources Officer, Compensation and Benefits Lead*
 **GlaxoSmithKline** (January 2012 to October 2012)
 *Finance Officer (Finance Business Partner to GSK South Korea)*
 **Unilever** (September 2009 to January 2011)
