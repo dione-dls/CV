@@ -53,23 +53,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Bachelor of Science, Business Administration
 - Cum Laude
 
-
-#### V&A Museum
-- Introduction to Museum Skills
-
-
 ## Experience
 
-**Filamat Composites, Inc.** (July 2015 to July 2017)    
-*Production Planner*  
-**Generali** (November 2013 to March 2015)   
-*High Net Worth Business Development Executive*  
+**Filamat Composites, Inc.** (July 2015 to July 2017)
+*Production Planner*
+
+**Generali** (November 2013 to March 2015)
+*High Net Worth Business Development Executive*
+
 **GlaxoSmithKline** (October 2012 to July 2013)
 *Human Resources Officer, Compensation and Benefits Lead*
+
 **GlaxoSmithKline** (January 2012 to October 2012)
 *Finance Officer (Finance Business Partner to GSK South Korea)*
+
 **Unilever** (September 2009 to January 2011)
 *Supply Chain Finance Business Partner*
+
 **Philamlife** (June 2007 to September 2009)
 *Investment Analyst*
 
