@@ -15,7 +15,7 @@ I am keen to work in a dynamic organization with a collaborative and supportive 
 ## Projects
 | Projects | Description | Timeframe | Technologies |
 | -------- | ----------- | --------- | ------------ |
-| MakersBnb |Created a clone of AirBnB as part of a team. The purpose was to create a full stack web app while devloping our abilities to work effectively as a team. | 1 week | Ruby, PostgreSQL, HTML, CSS|
+| MakersBnb |Created a clone of AirBnB as part of a team. The purpose was to create a full stack web app whilst developing our abilities to work effectively as a team. | 1 week | Ruby, PostgreSQL, HTML, CSS|
 | Finstagram | Created a clone of Instagram | 1 weekend | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
 ## Skills
