@@ -1,7 +1,7 @@
 ## Dione Estabillo
 
 I am an enthusiastic, curious, and hard-working full stack junior developer with a love for both design and function.
-My background is in Finance and Supply Chain but I realized that a career in software development ticks all the boxes in my personal list of what a dream career should be. And my dream career list reads something like this:
+My background is in Finance and Supply Chain but I realized that a career in software development ticks all the boxes in my personal list of what a dream career should be. And my dream career reads something like this:
 
 - intellectually stimulating
 - allows room for creativity
@@ -12,6 +12,11 @@ After dabbling with online coding tutorials, I have decided to accelerate my lea
 
 I am keen to work in a dynamic organization with a collaborative and supportive culture where I can add value whilst continuing to learn and grow.
 
+## Projects
+| Projects | Description | Timeframe | Technologies |
+| -------- | ----------- | --------- | ------------ |
+| MakersBnb |Created a clone of AirBnB as part of a team. The purpose was to create a full stack web app while devloping our abilities to work effectively as a team. | 1 week | Ruby, PostgreSQL, HTML, CSS|
+| Finstagram | Created a clone of Instagram | 1 weekend | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
 ## Skills
 
