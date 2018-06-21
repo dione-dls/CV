@@ -39,9 +39,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (March 2018 to July 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
+- Fast, independent learner
+- Great collaborator
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
