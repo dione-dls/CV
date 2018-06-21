@@ -1,18 +1,17 @@
 ## Dione Estabillo
 
-I am an enthusiastic, hard-working full stack junior developer in training with a love for both design and function.
-My background is in Finance and Supply Chain but when I moved to London and craved for new challenges I decided 
-to be bold and take steps to change my career path. My dream career reads something like this:
+I am an enthusiastic, curious, and hard-working full stack junior developer with a love for both design and function.
+My background is in Finance and Supply Chain but I realized that a career in software development ticks all the boxes in my personal list of what a dream career should be. And my dream career list reads something like this:
 
 - intellectually stimulating
 - allows room for creativity
 - provides continuous opportunities for improvement
-- in an in-demand and growing field
 
-I realized that a career in web development meets all the requirements in my checklist so I set about teaching myself to code.
-Makers Academy was the obvious choice for accelerating my learning and progressing me further toward my goal and after
-graduating from this 16-week intensive coding bootcamp, I am keen to work in a dynamic organization with a collaborative and
-supportive culture where I can add value while continuing to learn and grow.
+
+After dabbling with online coding tutorials, I have decided to accelerate my learning at Makers Academy and have since then been looking forward to crafting something more functional and exciting than Excel spreadsheets.
+
+I am keen to work in a dynamic organization with a collaborative and supportive culture where I can add value whilst continuing to learn and grow.
+
 
 ## Skills
 
