@@ -15,6 +15,7 @@ I am keen to work in a dynamic organization with a collaborative and supportive 
 ## Projects
 | Projects | Description | Timeframe | Technologies |
 | -------- | ----------- | --------- | ------------ |
+| Final Project | | 2 weeks | Swift, Nimble, Quick
 | MakersBnb |Created a clone of AirBnB as part of a team. The purpose was to create a full stack web app whilst developing our abilities to work effectively as a team. | 1 week | Ruby, PostgreSQL, HTML, CSS|
 | Finstagram | Created a clone of Instagram | 1 weekend | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
@@ -38,19 +39,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Ability to work independently and with others
+- Curious and passionate about code
+- Fast, independent learner
+- Great collaborator
 
 
 ## Education
 
 #### Makers Academy (March 2018 to July 2018)
 
-- Curious and passionate about code.
-- Fast, independent learner
-- Great collaborator
+A 16-week intensive development bootcamp, focusing on:
+
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara
 
 #### University of the Philippines, Diliman (June 2001 to April 2005)
 
@@ -78,6 +81,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Investment Analyst*
 
 ## Interests
-- I am a major classical ballet enthusiast - You can find me at the barre at least twice a week
+- I am a major classical ballet enthusiast - You can find me at the studio at least twice a week
 - I love exploring the outdoors - Traveling, walking, taking leisurely bike rides
 - I am also generally interested in art, music, and design
