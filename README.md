@@ -15,9 +15,10 @@ I am keen to work in a dynamic organization with a collaborative and supportive 
 ## Projects
 | Projects | Description | Timeframe | Technologies |
 | -------- | ----------- | --------- | ------------ |
-| Final Project | | 2 weeks | Swift, Nimble, Quick
-| MakersBnb |Created a clone of AirBnB as part of a team. The purpose was to create a full stack web app whilst developing our abilities to work effectively as a team. | 1 week | Ruby, PostgreSQL, HTML, CSS|
-| Finstagram | Created a clone of Instagram | 1 weekend | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
+|  [Swift Exit](https://github.com/habin-isa/Angelos) | An iOS app that allows a user to discreetly raise an alert in uncomfortable situations or during times of distress | 8 days | Swift, Xcode, Cocoapods, Twilio
+| [Fishnet](https://github.com/ZoeKavanagh/fishnet) | Created a clone of Facebook as part of a team. | 5 days | Ruby on Rails, PostgreSQL, HTML, CSS
+| [MakersBnb](https://github.com/charmalt/makersbnb) | Created a clone of AirBnB as part of a team. The purpose was to create a full stack web app whilst developing our abilities to work effectively as a team. | 5 days | Ruby, PostgreSQL, HTML, CSS|
+| [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
 ## Skills
 
