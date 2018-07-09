@@ -17,24 +17,22 @@ I am very keen to work in a dynamic organization with a collaborative and suppor
 |  [Swift Exit](https://github.com/habin-isa/Angelos) | An iOS app that allows a user to discreetly raise an alert in uncomfortable situations or during times of distress | 8 days | Swift, Xcode, Cocoapods, Twilio
 | [Fishnet](https://github.com/ZoeKavanagh/fishnet) | Created a clone of Facebook as part of a team. | 5 days | Ruby on Rails, PostgreSQL, HTML, CSS
 | [MakersBnb](https://github.com/charmalt/makersbnb) | Created a clone of AirBnB as part of a team. The purpose was of this project was to create a full stack web app while developing our abilities to work effectively as a team. | 5 days | Ruby, PostgreSQL, HTML, CSS|
-| [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram as part of a weekend challenge. The | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
+| [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram as part of a weekend challenge. | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
 ## Skills
 
 #### Quick and Independent Learner
-In my previous role as a production coordinator, I took the initiative to do more than learn the basics of the ERP system used by the company to create and schedule work orders. I took it upon myself to build my competency to the point where I can use the system not only for the work that is required of me but to be competent enough to use it to cover for some of the tasks usually done by the production planner and inventory specialist when necessary.
+In my previous role as a production coordinator, I took the initiative to do more than learn the basics of the ERP system used by the company to create and schedule work orders. I took it upon myself to build my competency to the point where I can use the system not only for the work that is required of me but to be competent enough to use it to cover for the production planner and inventory specialist when necessary.
+
+Also, a year into my role as a production coordinator, I was asked to take on more responsibility as a production planner. In this new role, I planned and prepared the production schedules and managed finished goods inventory levels and staffing resources, tasks which I had to learn quickly. In this role, I have achieved on-time delivery rates of 98.5% or better—figures which are considered to be on the higher end of the scale. In addition, I have also completed a special project in which I have created an entirely new Excel model which records and keeps track of the shop floor associates skills, competencies, and training requirements—a tool which helped management to somehow increase operating efficiency by spotting opportunities for improvement in the way certain shop floor associates do their jobs.
 
 #### Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+While working in a financial reporting role for a pharmaceutical company, I was assigned as the finance partner to remotely support the company’s commercial team in South Korea. In this job, the key focus was not only on preparing accurate and timely financial reports but also on streamlining financial processes and developing models to minimize inefficiencies in the financial reporting, budgeting, and planning exercises. My goal in this role was to tirelessly push for continuous process improvement and by the end of my assignment, quite a few redundant processes and reports have been eliminated and the work flow has become more efficient and simplified.
 
 #### Customer Service
 
-The last job I held in the Philippines was more of a client-facing role. I worked for an insurance company which piloted a project of partnering with one of the biggest private banks in the Philippines to provide insurance-based estate planning solutions to high net-worth clients. My main responsibilities were to grow the high net-worth customer-base as well as to maintain relationships with existing clients and key personnel within the company’s private bank partner. It is in this role where I learned to put into practice the art of focusing on the customer as well as to be diplomatic and discreet in dealing with sensitive situations and confidential information.
+The last job I held in the Philippines was a client-facing role. I worked for an insurance company which piloted a project of partnering with one of the biggest private banks in the Philippines to provide insurance-based estate planning solutions to high net-worth clients. My main responsibilities were to grow the high net-worth customer-base as well as to maintain relationships with existing clients and key personnel within the company’s private bank partner. It is in this role where I learned to put into practice the art of focusing on the customer as well as to be diplomatic and discreet in dealing with sensitive situations and confidential information.
 
 #### Ability to work independently and with others
 - Curious and passionate about code
