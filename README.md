@@ -7,7 +7,7 @@ I am an enthusiastic, curious, and hard-working full stack junior developer. My 
 - provides continuous opportunities for improvement
 
 
-After dabbling with online coding tutorials, I have decided to accelerate my learning at Makers Academy and have since been looking forward to crafting something more functional and exciting than Excel spreadsheets.
+After dabbling with online coding tutorials, I have decided to accelerate my learning at Makers Academy and have since been excited about crafting something more functional and exciting than spreadsheet models.
 
 I am very keen to work in a dynamic organization with a collaborative and supportive culture where I can add value while continuing to learn and grow.
 
@@ -15,8 +15,8 @@ I am very keen to work in a dynamic organization with a collaborative and suppor
 | Projects | Description | Timeframe | Technologies |
 | -------- | ----------- | --------- | ------------ |
 |  [Swift Exit](https://github.com/habin-isa/Angelos) | An iOS app that allows a user to discreetly raise an alert in uncomfortable situations or during times of distress | 8 days | Swift, Xcode, Cocoapods, Twilio
-| [Fishnet](https://github.com/ZoeKavanagh/fishnet) | Created a clone of Facebook as part of a team. | 5 days | Ruby on Rails, PostgreSQL, HTML, CSS
-| [MakersBnb](https://github.com/charmalt/makersbnb) | Created a clone of AirBnB | 5 days | Ruby, PostgreSQL, HTML, CSS|
+| [Fishnet](https://github.com/ZoeKavanagh/fishnet) | Created a clone of Facebook as part of a team | 5 days | Ruby on Rails, PostgreSQL, HTML, CSS
+| [MakersBnb](https://github.com/charmalt/makersbnb) | Created a clone of AirBnB as part of a team | 5 days | Ruby, PostgreSQL, HTML, CSS|
 | [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram as part of an individual weekend challenge. | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
 ## Skills
@@ -32,7 +32,7 @@ While working in a financial reporting role for a pharmaceutical company, I was 
 
 #### Customer Service
 
-The last job I held in the Philippines was a client-facing role. I worked for an insurance company which piloted a project of partnering with one of the biggest private banks in the Philippines to provide insurance-based estate planning solutions to high net-worth clients. My main responsibilities were to grow the high net-worth customer-base as well as to maintain relationships with existing clients and key personnel within the company’s private bank partner. It is in this role where I learned to put into practice the art of focusing on the customer as well as to be diplomatic and discreet in dealing with sensitive situations and confidential information.
+The last job I held in the Philippines was a client-facing role. I worked for an insurance company which piloted a project of partnering with one of the biggest private banks in the country to provide insurance-based estate planning solutions to high net-worth clients. My main responsibilities were to grow the high net-worth customer-base as well as to maintain relationships with existing clients and key personnel within the company’s private bank partner. It is in this role where I learned to put into practice the art of focusing on the customer as well as to be diplomatic and discreet in dealing with sensitive situations and confidential information.
 
 ## Education
 
