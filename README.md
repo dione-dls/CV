@@ -24,7 +24,7 @@ I am very keen to work in a dynamic organization with a collaborative and suppor
 #### Quick and Independent Learner
 In my previous role as a production coordinator, I took the initiative to do more than learn the basics of the ERP system used by the company to create and schedule work orders. I took it upon myself to build my competency to the point where I can use the system not only for the work that is required of me but to be competent enough to use it to cover for the other roles within my team.
 
-Also, within a year, I was promoted to the role of production planner. In this new role, I planned and prepared the production schedules and managed finished goods inventory levels and staffing resources—tasks which I had very limited knowledge of to begin with. In this role, I have consistently achieved on-time delivery rates of 98.5% or better (with 100% being the perfect score). In addition, I have also completed a special project in which I have created a spreadsheet model which keeps track of the shop floor associates' skills, competencies, and training requirements—a tool which helped management to increase operating efficiency by spotting opportunities for improvement in the production process by matching associates' skills to new work flows.
+Also, within a year, I was promoted to the role of production planner. In this new role, I planned and prepared the production schedules and managed finished goods inventory levels and staffing resources—tasks which I had very limited knowledge of to begin with. In this role, I have consistently achieved on-time delivery rates of 98.5% or better (with 100% being the perfect score). In addition, I have also completed a special project in which I have created a spreadsheet model which keeps track of the shop floor associates' skills, competencies, and training requirements—a tool which helped management increase operating efficiency by spotting opportunities for improvement in the production process by matching associates' skills to new work flows.
 
 #### Analysis and Continuous Improvement
 
@@ -44,6 +44,10 @@ A 16-week intensive development bootcamp, focusing on:
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Capybara
+
+#### University of Toronto, School of Continuing Studies (September 2015 to December 2015)
+
+- Autumn term course on Quantitative Methods for Business Management
 
 #### University of the Philippines, Diliman (June 2001 to April 2005)
 
