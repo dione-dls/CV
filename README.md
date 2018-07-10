@@ -17,7 +17,7 @@ I am very keen to work in a dynamic organization with a collaborative and suppor
 |  [Swift Exit](https://github.com/habin-isa/Angelos) | An iOS app that allows a user to discreetly raise an alert in uncomfortable situations or during times of distress | 8 days | Swift, Xcode, Cocoapods, Twilio
 | [Fishnet](https://github.com/ZoeKavanagh/fishnet) | Created a clone of Facebook as part of a team | 5 days | Ruby on Rails, PostgreSQL, HTML, CSS
 | [MakersBnb](https://github.com/charmalt/makersbnb) | Created a clone of AirBnB as part of a team | 5 days | Ruby, PostgreSQL, HTML, CSS|
-| [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram as part of an individual weekend challenge. | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
+| [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram as part of an individual weekend challenge | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
 ## Skills
 
@@ -28,7 +28,7 @@ Also, within a year, I was promoted to the role of production planner. In this n
 
 #### Analysis and Continuous Improvement
 
-While working in a financial reporting role for a pharmaceutical company, I was assigned as the finance partner to remotely support the company’s commercial team in South Korea. In this job, the key focus was not only on preparing accurate and timely financial reports but also on streamlining financial processes and developing models to minimize inefficiencies in the financial reporting, budgeting, and planning exercises. My goal in this role was to tirelessly push for continuous process improvement and by the end of my assignment, quite a few redundant processes and reports have been eliminated and the work flow has become more efficient and simplified.
+While working in a financial reporting role for a pharmaceutical company, I was assigned as the finance partner to remotely support the company’s commercial team in South Korea. In this job, the key focus was not only on preparing accurate and timely financial reports but also on streamlining financial processes and developing models to minimize inefficiencies in the financial reporting, budgeting, and planning exercises. My goal in this role was to tirelessly push for continuous process improvement and by the end of my assignment, a good number of redundant processes and reports have been eliminated and the work flow has become more efficient and simplified.
 
 #### Customer Service
 
