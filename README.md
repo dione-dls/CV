@@ -16,15 +16,15 @@ I am very keen to work in a dynamic organization with a collaborative and suppor
 | -------- | ----------- | --------- | ------------ |
 |  [Swift Exit](https://github.com/habin-isa/Angelos) | An iOS app that allows a user to discreetly raise an alert in uncomfortable situations or during times of distress | 8 days | Swift, Xcode, Cocoapods, Twilio
 | [Fishnet](https://github.com/ZoeKavanagh/fishnet) | Created a clone of Facebook as part of a team. | 5 days | Ruby on Rails, PostgreSQL, HTML, CSS
-| [MakersBnb](https://github.com/charmalt/makersbnb) | Created a clone of AirBnB as part of a team. The purpose was of this project was to create a full stack web app while developing our abilities to work effectively as a team. | 5 days | Ruby, PostgreSQL, HTML, CSS|
-| [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram as part of a weekend challenge. | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
+| [MakersBnb](https://github.com/charmalt/makersbnb) | Created a clone of AirBnB | 5 days | Ruby, PostgreSQL, HTML, CSS|
+| [Finstagram](https://github.com/dione-dls/instagram-challenge) | Created a clone of Instagram as part of an individual weekend challenge. | 2 days | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise |
 
 ## Skills
 
 #### Quick and Independent Learner
 In my previous role as a production coordinator, I took the initiative to do more than learn the basics of the ERP system used by the company to create and schedule work orders. I took it upon myself to build my competency to the point where I can use the system not only for the work that is required of me but to be competent enough to use it to cover for the other roles within my team.
 
-Also, within a year, I was promoted to the role of production planner. In this new role, I planned and prepared the production schedules and managed finished goods inventory levels and staffing resources--tasks which I had very limited knowledge of to begin with. In this role, I have consistently achieved on-time delivery rates of 98.5% or better (with 100% being the perfect score). In addition, I have also completed a special project in which I have created an Excel model which records and keeps track of the shop floor associates skills, competencies, and training requirements—a tool which helped management to increase operating efficiency by spotting opportunities for improvement in the production process.
+Also, within a year, I was promoted to the role of production planner. In this new role, I planned and prepared the production schedules and managed finished goods inventory levels and staffing resources—tasks which I had very limited knowledge of to begin with. In this role, I have consistently achieved on-time delivery rates of 98.5% or better (with 100% being the perfect score). In addition, I have also completed a special project in which I have created a spreadsheet model which keeps track of the shop floor associates' skills, competencies, and training requirements—a tool which helped management to increase operating efficiency by spotting opportunities for improvement in the production process by matching associates' skills to new work flows.
 
 #### Analysis and Continuous Improvement
 
