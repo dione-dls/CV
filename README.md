@@ -40,10 +40,10 @@ Junior Software Engineer with a keen interest in Test Driven Development and Mic
 
 #### Testing
 - Followed TDD practices from my first practice project to my first job role
-- Experience writing unit, interface and integration tests to achieve 100% coverage
+- Experience writing unit, interface, and integration tests to achieve 100% coverage
 
 #### Agile Practices
-- Worked closely with a team using scrum methodologies, regular stand-ups and retros, and implementing continuous delivery via Circle CI pipelines.
+- Worked closely with a team using scrum methodologies, regular stand-ups and retros, and implementing continuous delivery via Circle CI pipelines
 
 ## Education
 
